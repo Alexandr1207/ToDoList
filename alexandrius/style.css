@@ -1,0 +1,62 @@
+h2{
+    text-align: center;
+}
+
+.todoList{
+    max-width: 500px;
+    border: 1px solid black;
+    border-radius: 6px;
+    margin: 0 auto;
+}
+
+.highTasks{
+    max-width: 460px;
+    margin: 0 auto;
+}
+
+.item{
+    border: 1px solid #989898;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    display: flex;
+    justify-content: space-between;
+    max-width: 460px;
+    padding: 12px;
+}
+
+.item input{
+    width: 1.3em;
+    height: 1.3em;
+}
+
+p{
+    max-width: 370px;
+}
+
+form{
+    border: 1px solid #989898;
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;   
+}
+
+form input{
+    padding: 12px;
+    width: 100%;
+}
+
+form button img{
+    transform: rotate(45deg);
+    margin-right: 12px;
+}
+
+.lowtasks{
+    max-width: 460px;
+    margin: 0 auto;
+}
+
+.highText{
+    display: flex;
+    
+}

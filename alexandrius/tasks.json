@@ -1,0 +1,29 @@
+{
+    "list":[
+        {
+            "name" : "Write a post",
+            "priority": "low",
+            "status": "todo"
+        },
+        {
+            "name" : "Do some practice",
+            "priority": "high",
+            "status": "todo"
+        },
+        {
+            "name" : "Make a bed",
+            "priority": "low",
+            "status": "done"
+        },
+        {
+            "name" : "Pet the cat",
+            "priority": "low",
+            "status": "todo"
+        },
+        {
+            "name" : "Training",
+            "priority": "high",
+            "status": "done"
+        }    
+    ]
+}
